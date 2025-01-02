@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sebastienwuidar/sebastienwuidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+
+I am a Full-Stack Developper since September 2020. I graduated from the Haute Ecole Libre Mosane (HELMo) in June 2024 with a degree in computer science with a focus on application development.
+
+I love Laravel and Tailwind CSS 🥰
+
+### Programming languages & frameworks
+
+Java, C#, Javascript, Laravel, PHP, Vue.js and many others
